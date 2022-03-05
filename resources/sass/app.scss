@@ -1,0 +1,41 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// @import 'variables';
+
+@import './new.scss';
+// @import "../../node_modules/bootstrap/scss/functions";
+// @import "../../node_modules/bootstrap/scss/variables";
+// @import "../../node_modules/bootstrap/scss/mixins";
+
+// $primary: #aaff94;
+// $danger: #ff4136;
+// $custom-theme-colors: (
+//   "primary": $primary,
+//   "danger": $danger
+// );
+
+// $theme-colors: map-merge(
+//   $theme-colors,
+//   $custom-theme-colors
+// );
+
+// $custom-position-values: (
+//   5: 5%
+// );
+
+// $position-values:  $custom-position-values;
+
+// @import "../../node_modules/bootstrap/scss/utilities";
+// @import "../../node_modules/bootstrap/scss/root";
+// @import "../../node_modules/bootstrap/scss/reboot";
+// @import "../../node_modules/bootstrap/scss/type";
+// @import "../../node_modules/bootstrap/scss/images";
+// @import "../../node_modules/bootstrap/scss/containers";
+// @import "../../node_modules/bootstrap/scss/grid";
+// @import "../../node_modules/bootstrap/scss/utilities/api";
